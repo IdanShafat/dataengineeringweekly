@@ -1,0 +1,8 @@
+article:
+  author:
+    linkedin: "https://www.linkedin.com/in/idanshafat/"
+    name: "Idan Shafat - Data integration engineer at Riskified"
+    twitter: "IdanShafat"
+  link: "https://medium.com/riskified-technology/what-is-data-integrity-how-do-you-achieve-it-and-why-is-it-important-dac87bf26c25"
+  review: "How to ensure Data Integrity across an organization and how to address Data Issues"
+  tags: "data engineering, data integration, data integrity, data, challenges, tools, data issues"
